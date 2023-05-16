@@ -1,2 +1,2 @@
 const { build } = require('biiif');
-build('public/iiif', 'http://hub.bitzl.io/iiif', "foo");
+build('public/iiif', 'https://hub.bitzl.io/iiif');
