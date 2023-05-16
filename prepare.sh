@@ -1,7 +1,7 @@
 #!/bin/bash
 
-mkdir -p public/iiif/manifest1/_carina
-wget -P public/iiif/manifest1/_carina https://upload.wikimedia.org/wikipedia/commons/f/fe/A_Different_Slant_on_Carina.jpg
+mkdir -p public/iiif/manifest1/_c1
+wget -P public/iiif/manifest1/_c1 https://upload.wikimedia.org/wikipedia/commons/7/7f/Volc%C3%A1n_Mi%C3%B1iques%2C_Chile%2C_2016-02-08%2C_DD_52-55_PAN.jpg
 
 mkdir -p public/iiif/manifest1/_old
 wget -P public/iiif/manifest1/_old https://upload.wikimedia.org/wikipedia/commons/0/0b/The_Old_Man_for_God-The_details.jpg
