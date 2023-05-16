@@ -1,0 +1,6 @@
++tiles/
+index.json
+thumb.jpg
+node_modules/
+*.jpg
+*.png
